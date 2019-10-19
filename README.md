@@ -7,7 +7,7 @@ All Passenger:-[Passenger [name=Shubhada, src=Pune, dest=Mumbai], Passenger [nam
 ```
 To clone or download project from the link
 ```
-
+  $ git clone https://github.com/shubh2911/List-Operator.git
 ```
 
 then import using existing project into workspace
